@@ -5,4 +5,4 @@
 
 
 ![Logo](https://github.com/ARRAIANS/arraians.io/blob/main/LOGO%20ARRAIANS.PNG)
-[BP Report](https://yourusername.github.io/yourBPReport.pdf)
+[BP Report](https://github.com/ARRAIANS/arraians.io/blob/main/Business%20Proyect.pdf)
